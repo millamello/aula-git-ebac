@@ -10,4 +10,5 @@ Dados do aluno
 Obrigado!!!
 
 Arquivo alterado após o git clone.
+Arquivo alterado
 

@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome:Camila
+-Profissão:Analista de Suporte(outsourcing impressão)
+-Cidade:Sorocaba-SP
+-O que faz nas horas vaga:Estudo/passeio
+-Feedback sobre o curso Qualidade de Software:A didatica dele é sensacional, me adaptei muito bem as explicações mesmo com algumas dificu durante o percurso.
+-Feedback sobre a plataforma de estudo da EBAC:A plataforma é ótima, pratica na utilização e direta no que precisamos. Seja durante os videos ou na necessidade de suporte/ajuda.
 
 Obrigado!!!
 
